@@ -29,5 +29,6 @@
     1. Table 테이블 = 표
         1. (레코드) : 행 = 가로 = 레코드 = 튜플
         2. (필드) : 열 = 세로 = 필드 = 속성
-        ![image](https://user-images.githubusercontent.com/92840513/176982706-e59d9c83-bc32-417b-ad0b-ffa300252ae2.png)
+       
+![image](https://user-images.githubusercontent.com/92840513/176982706-e59d9c83-bc32-417b-ad0b-ffa300252ae2.png)
 
