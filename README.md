@@ -23,7 +23,7 @@
         2. ROLLBACK : 작성된 명령어 취소 
         3. SAVEPOINT : 작성된 명령어 이름 지정 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8aec12e9-e3ea-4232-a772-3bd5339f4dd2/Untitled.png)
+![image](https://user-images.githubusercontent.com/92840513/176982687-12aed22c-9d94-4c63-a5ad-fa63d175ed4f.png)
 
 1. 관계형 데이터베이스 
     1. Table 테이블 = 표
