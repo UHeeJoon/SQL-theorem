@@ -14,6 +14,7 @@
             1.  : create user mydb identified by 1234      mydb 계정명으로 패스워드 1234 생성 
         3. 계정 권한 : grant [ 권한 이름 ]  to [ 계정명 ];
             1.  grant connect , resource , dba to mydb; 
+        4. 계정 삭제 : drop user [ 계정명 ]  cascade;
     5. exit : cmd에서 db 나가기
 
 2. SQL 질의어 : 컴퓨터에게 표 만들고 수정 관리 명령하는 언어
